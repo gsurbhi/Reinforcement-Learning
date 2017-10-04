@@ -1,0 +1,2 @@
+In a gridworld scenario, an agent learns a policy to reach a goal configuration by travelling on the edge of a “cliff”. 
+Implemented an RL agent that can solve this problem using both q-learning and SARSA.
